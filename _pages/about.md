@@ -19,8 +19,8 @@ I'm always glad to talk with students interested in research and with colleagues
 
 ## News
 
-- **2026:** Owen Jones's paper on time-step effects in chaotic simulations submitted to *Physical Review E*.
-- **2026:** Awarded a 4-VA Collaborative Research Grant with Virginia Tech to extend localized control to new models and two dimensions.
+
+
 - **May 2026:** Invited talk at the International Symposium on Stochastic Complex Systems, Virginia Tech.
 - **March 2026:** Owen Jones (oral) and Amaro Otero (poster) presented at the APS Global Physics Summit in Denver.
 - **October 2025:** Chaired the Local Organizing Committee for the 92nd Annual Meeting of SESAPS, hosted at JMU.
