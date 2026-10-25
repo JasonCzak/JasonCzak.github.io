@@ -14,13 +14,6 @@ My group studies spatially extended nonlinear systems, where simple local rules 
 
 Control of chaos is usually applied to an entire system, driving it to a steady state or a simple oscillation. We apply control only inside a small region and ask what the rest of the system does. In the Gray–Scott model, localized time-delayed feedback creates stable periodic structures inside an otherwise chaotic state ([*Phys. Rev. E* 104, 064213, 2021](/publications/)). We are extending this to localized parameter changes, electric-field-induced patterning, the Selkov glycolysis model, two-dimensional systems, and the complex Ginzburg–Landau equation.
 
-## Machine learning for pattern prediction
-
-Our simulations generate thousands of labeled space-time images. Students train neural networks to classify pattern regimes and to predict the long-time effect of a perturbation from early snapshots. The goal is a fast surrogate that lets us search for the control that produces a desired pattern without running every simulation.
-
-## Reliable simulation of chaotic systems
-
-In chaotic systems, small numerical choices can change long-time results. Our work on how the integration time step affects chaotic dynamics (under review at *Physical Review E*) sets the convergence standards our control studies rely on.
 
 ## Applications
 
