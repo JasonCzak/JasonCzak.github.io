@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Code & Repositories"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+Code, course materials, and student projects from my research group and courses. Everything here is on [GitHub](https://github.com/{{ site.author.github }}).
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
