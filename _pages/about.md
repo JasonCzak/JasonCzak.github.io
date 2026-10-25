@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Lecturer in the Department of Physics and Astronomy at James Madison University. My research is in computational physics: I simulate pattern-forming systems such as the Gray–Scott reaction–diffusion model and study what happens when control is applied to only a small region of a chaotic system. Sometimes the chaos settles down; sometimes entirely new periodic patterns appear. My group is now using machine learning to classify these patterns and to predict the outcome of a perturbation before running the full simulation.
+I'm a Lecturer in the Department of Physics and Astronomy at James Madison University. My research is in computational physics: I simulate pattern-forming systems such as the Gray–Scott reaction–diffusion model and study what happens when control is applied to only a small region of a chaotic system. Sometimes the chaos settles down; sometimes entirely new periodic patterns appear. My group is beginning to apply machine learning to classify these patterns and to identify which patterns are likely to appear in regions of parameter space the model hasn’t seen.
 
 Most of this work is done with undergraduates. Since 2023, students in my group have presented at the APS Global Physics Summit, the Southeastern Section of the APS (SESAPS), and the National Conference on Undergraduate Research.
 
