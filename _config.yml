@@ -23,10 +23,10 @@ repository               : "YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Czak.jpg"
   name             : "Jason E. Czak, Ph.D."
-  pronouns         : # example: "she/her"  
-  bio              : "Lecturer, Department of Physics and Astronomy"
+  pronouns         : # example: "he"  
+  bio              : #"Lecturer, Department of Physics and Astronomy"
   location         : "Harrisonburg, Virginia"
   employer         : "James Madison University"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : # paste your Google Scholar profile URL here
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # paste your ORCID URL here, e.g. "https://orcid.org/0000-0000-0000-0000"
+  orcid            : https://orcid.org/0000-0001-5813-9230
   semantic         : # URL
   ssrn             : # URL
   pubmed           :
