@@ -29,7 +29,7 @@ The same framework applies wherever localized intervention matters in practice: 
 ## Support and collaboration
 
 - 4-VA Collaborative Research Grant, James Madison University and Virginia Tech (2026), with Michel Pleimling
-- National computing resources through NSF ACCESS <!-- update once requested/awarded -->
+#- National computing resources through NSF ACCESS <!-- update once requested/awarded -->
 
 ## Join the group
 
