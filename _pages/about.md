@@ -31,5 +31,6 @@ I'm always glad to talk with students interested in research and with colleagues
 - **[Publications](/publications/)** and **[Talks](/talks/)**
 - **[Teaching](/teaching/)**: courses, including full DATA 200 materials
 <!--  - **[Students](/students/)**: current and former student researchers and their work
-- **[Code](/portfolio/)**: simulation code, course repositories, and student projects
- - **[CV](/cv/)** -->
+- **[Code](/portfolio/)**: simulation code, course repositories, and student projects -->
+<!-- - **[CV](/cv/)**  -->
+
