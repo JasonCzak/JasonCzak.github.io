@@ -7,6 +7,9 @@ author_profile: true
 
 My group studies spatially extended nonlinear systems, where simple local rules produce spots, stripes, traveling waves, self-replicating structures, and spatiotemporal chaos. We ask how small, targeted interventions can steer these systems toward new behavior, and whether we can predict the outcome in advance.
 
+For the expanded research group page, including current members, simulation videos, presentations, and how to join, visit the [Czak Research Group website](https://jasonczak.github.io/CzakResearchGroup/).
+{: .notice--info}
+
 <!-- Add a figure: copy an image to /images/ and uncomment the line below. -->
 <!-- ![Controlled two-dimensional Gray–Scott system](/images/gray-scott-2d-control.png) -->
 
